@@ -1,6 +1,8 @@
 ## project-essential
 An operating system for the AI era—built on a foundation of monochrome precision --Beautifully functional. Fundamentally intelligent.
 This Is A 64 Bit Linux Distro With AI Features Based On Nothing OS
+We have been waiting long for the Nothing Laptop (1) to be released -- Wait no more, Project Essential uses the same design and asthetics as NOTHING OS to feel like ONE.
+(we are not affiltaed with NOTHING TECH , ESSENTIAL , Andy Rubin , Carl Pei and others)
 
 # Go To Our Official Website At https://project-essential.framer.website/
 
